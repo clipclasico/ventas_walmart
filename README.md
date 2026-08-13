@@ -1,4 +1,4 @@
-# Walmart Sales Analysis | Power BI
+# Análisis de ventas de Walmart | Power BI
 
 Proyecto académico desarrollado en **Power BI** para analizar datos históricos de ventas de Walmart mediante dashboards e indicadores.
 
